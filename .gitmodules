@@ -1,0 +1,6 @@
+[submodule "oneboard_frontend"]
+	path = oneboard_frontend
+	url = https://github.com/openmynz/oneboard_frontend.git
+[submodule "oneboard_backend"]
+	path = oneboard_backend
+	url = https://github.com/openmynz/oneboard_backend.git
